@@ -173,8 +173,15 @@ I am currently available for:
 - 🤖 **Database Reliability Engineer (DBRE)** — automation-first database operations
 - 📍 Remote · Hybrid · On-site — India and globally
 
+## 📝 Latest Writing
+
+- 🔧 [Technical Blog — Oracle DBA & Cloud Architecture](https://sagarthosar.hashnode.dev)
+- 💭 [Unscripted Thoughts — AI & Technology](https://unscriptedthoughts.hashnode.dev)
+
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarthosar)
 [![Send an Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarthosar.careers@gmail.com)
+[![Technical Blog](https://img.shields.io/badge/Technical_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sagarthosar.hashnode.dev)
+[![Thoughts Blog](https://img.shields.io/badge/Unscripted_Thoughts-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://unscriptedthoughts.hashnode.dev)
 
 ---
 
